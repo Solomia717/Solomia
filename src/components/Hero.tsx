@@ -10,7 +10,7 @@ const Hero = () => {
     }
   };
 
-  const technologies = ['React', 'Next.js', 'Node.js', 'MongoDB', 'Supabase', 'TypeScript'];
+  const technologies = ['React', 'Angular', 'Vue.js', 'MERN stack', 'Next.js', 'Shopify'];
 
   return (
     <section id="home" className="min-h-screen flex items-center bg-gradient-to-br from-slate-50 via-blue-50 to-purple-50 pt-20 relative overflow-hidden">
@@ -38,22 +38,22 @@ const Hero = () => {
               </div>
 
               <h1 className="text-5xl lg:text-7xl font-bold text-gray-900 leading-tight">
-                <span className="block">Building</span>
-                <span className="bg-gradient-to-r from-blue-600 via-purple-600 to-pink-600 bg-clip-text text-transparent animate-pulse">
-                  Digital Magic
+                <span className="block">Crafting</span>
+                <span className="text-[60px] bg-gradient-to-r from-blue-600 via-purple-600 to-pink-600 bg-clip-text text-transparent animate-pulse">
+                  Stunning Interfaces
                 </span>
-                <span className="block text-4xl lg:text-5xl mt-2 text-gray-700">with Code</span>
+                <span className="block text-4xl lg:text-5xl mt-2 text-gray-700">with Precision & Speed</span>
               </h1>
 
               <p className="text-xl lg:text-2xl text-gray-600 leading-relaxed max-w-2xl">
-                Rapid full-stack developer specializing in
-                <span className="font-semibold text-blue-600"> Lovable</span>,
-                <span className="font-semibold text-purple-600"> Cursor</span>,
-                <span className="font-semibold text-green-600"> Replit</span>,
-                <span className="font-semibold text-orange-600"> Bolt.new</span>,
-                <span className="font-semibold text-rose-600"> Supabase</span>,
-                <span className="font-semibold text-teal-600"> Shopify</span>, and the
-                <span className="font-semibold text-indigo-600"> MERN stack</span>.
+                Fast-moving Frontend developer specializing in
+                <span className="font-semibold text-blue-600"> React</span>,
+                <span className="font-semibold text-purple-600"> Angular</span>,
+                <span className="font-semibold text-green-600"> Vue.js</span>,
+                <span className="font-semibold text-orange-600"> MERN stack</span>,
+                <span className="font-semibold text-rose-600"> AI tools</span>,
+                <span className="font-semibold text-teal-600"> Next.js</span>, and the
+                <span className="font-semibold text-indigo-600"> Shopify</span>.
               </p>
 
               <div className="flex flex-wrap gap-2 pt-4">
@@ -88,7 +88,7 @@ const Hero = () => {
             <div className="flex items-center justify-between pt-8">
               <div className="grid grid-cols-3 gap-8">
                 <div className="text-center">
-                  <div className="text-3xl lg:text-4xl font-bold bg-gradient-to-r from-blue-600 to-purple-600 bg-clip-text text-transparent">15+</div>
+                  <div className="text-3xl lg:text-4xl font-bold bg-gradient-to-r from-blue-600 to-purple-600 bg-clip-text text-transparent">8+</div>
                   <div className="text-gray-600 text-sm font-medium">Projects</div>
                 </div>
                 <div className="text-center">
@@ -145,8 +145,8 @@ const Hero = () => {
                   <div className="text-blue-400">const <span className="text-yellow-400">developer</span> = {`{`}</div>
                   <div className="ml-4 text-gray-300">name: <span className="text-green-300">'{USER_NAME}'</span>,</div>
                   <div className="ml-4 text-gray-300">expertise: [</div>
-                  <div className="ml-8 text-orange-400">'Lovable', 'Cursor', 'Replit',</div>
-                  <div className="ml-8 text-orange-400">'Bolt.new', 'MERN', 'Supabase'</div>
+                  <div className="ml-8 text-orange-400">'React', 'Angular', 'Vue.js',</div>
+                  <div className="ml-8 text-orange-400">'MERN', 'AI tools', 'Shopify'</div>
                   <div className="ml-4 text-gray-300">],</div>
                   <div className="ml-4 text-gray-300">passion: <span className="text-green-300">'Creating Solutions'</span>,</div>
                   <div className="ml-4 text-gray-300">status: <span className="text-purple-400">'Available'</span></div>

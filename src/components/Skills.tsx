@@ -7,7 +7,7 @@ const Skills = () => {
       title: "MVP & Automation Tools",
       icon: <Zap className="text-yellow-500" size={32} />,
       skills: [
-        { name: "Lovable.dev", level: 4 },
+        { name: "Lovable.dev", level: 5 },
         { name: "Bolt.new", level: 5 },
         { name: "Cursor", level: 4 },
         { name: "Replit", level: 4 },
@@ -22,8 +22,8 @@ const Skills = () => {
         { name: "React", level: 5 },
         { name: "Next.js", level: 5 },
         { name: "Tailwind CSS", level: 5 },
-        { name: "Shopify", level: 4 },
-        { name: "Vite", level: 3 }
+        { name: "Vue.js", level: 5 },
+        { name: "Angular", level: 5 }
       ],
       color: "from-blue-400 to-purple-500"
     },
@@ -45,8 +45,8 @@ const Skills = () => {
       skills: [
         { name: "JavaScript", level: 5 },
         { name: "TypeScript", level: 5 },
-        { name: "Liquid", level: 3 },
-        { name: "SQL", level: 3 }
+        { name: "HTML", level: 5 },
+        { name: "CSS", level: 5 }
       ],
       color: "from-purple-400 to-pink-500"
     },
@@ -66,9 +66,9 @@ const Skills = () => {
       icon: <Settings className="text-gray-500" size={32} />,
       skills: [
         { name: "GitHub Actions", level: 4 },
-        { name: "Docker", level: 3 },
         { name: "Vercel", level: 4 },
-        { name: "AWS Lambda", level: 3 }
+        { name: "Docker", level: 3 },
+        { name: "Figma", level: 5 }
       ],
       color: "from-gray-400 to-slate-500"
     }

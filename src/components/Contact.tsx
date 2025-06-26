@@ -102,7 +102,7 @@ const Contact = () => {
               <ul className="space-y-3 text-gray-600">
                 <li className="flex items-start space-x-3">
                   <div className="w-2 h-2 bg-blue-600 rounded-full mt-2 flex-shrink-0"></div>
-                  <span>Expert in Lovable, Cursor, Supabase, Replit, MERN</span>
+                  <span>Expert in React, Next.js, MERN, Shopify, and AI tools</span>
                 </li>
                 <li className="flex items-start space-x-3">
                   <div className="w-2 h-2 bg-blue-600 rounded-full mt-2 flex-shrink-0"></div>
@@ -110,15 +110,15 @@ const Contact = () => {
                 </li>
                 <li className="flex items-start space-x-3">
                   <div className="w-2 h-2 bg-blue-600 rounded-full mt-2 flex-shrink-0"></div>
-                  <span>Clean, scalable, AI-ready code</span>
+                  <span>Clean TypeScript code with seamless API integration</span>
                 </li>
                 <li className="flex items-start space-x-3">
                   <div className="w-2 h-2 bg-blue-600 rounded-full mt-2 flex-shrink-0"></div>
-                  <span>Clear, fast communication</span>
+                  <span>Fast communication & reliable delivery</span>
                 </li>
                 <li className="flex items-start space-x-3">
                   <div className="w-2 h-2 bg-blue-600 rounded-full mt-2 flex-shrink-0"></div>
-                  <span>Post-launch support included</span>
+                  <span>Post-launch tweaks and support included</span>
                 </li>
               </ul>
             </div>

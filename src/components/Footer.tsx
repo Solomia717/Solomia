@@ -17,7 +17,7 @@ const Footer = () => {
               </span>
             </div>
             <p className="text-gray-400 mb-4 leading-relaxed">
-              Rapid full-stack developer launching scalable, AI-powered MVPs using modern JavaScript and cutting-edge tools.
+              Fast frontend specialist delivering scalable, AI-enhanced MVPs with modern JavaScript, TypeScript, and tools like React, Next.js, Supabase, and Shopify.
             </p>
             <div className="flex space-x-4">
               <a
@@ -55,11 +55,11 @@ const Footer = () => {
           <div>
             <h3 className="text-lg font-semibold mb-4">Services</h3>
             <ul className="space-y-2 text-gray-400">
-              <li><a href="#" className="hover:text-white transition-colors duration-200">Web Development</a></li>
-              <li><a href="#" className="hover:text-white transition-colors duration-200">Rapid Prototyping</a></li>
-              <li><a href="#" className="hover:text-white transition-colors duration-200">Full-Stack Development</a></li>
-              <li><a href="#" className="hover:text-white transition-colors duration-200">Automation Workflows</a></li>
-              <li><a href="#" className="hover:text-white transition-colors duration-200">API Integration</a></li>
+              <li><a href="#" className="hover:text-white transition-colors duration-200">Frontend Development</a></li>
+              <li><a href="#" className="hover:text-white transition-colors duration-200">Rapid MVP Launches</a></li>
+              <li><a href="#" className="hover:text-white transition-colors duration-200">Full-Stack Applications</a></li>
+              <li><a href="#" className="hover:text-white transition-colors duration-200">AI-Powered Interfaces</a></li>
+              <li><a href="#" className="hover:text-white transition-colors duration-200">API & Stripe Integration</a></li>
               <li><a href="#" className="hover:text-white transition-colors duration-200">Shopify Development</a></li>
             </ul>
           </div>

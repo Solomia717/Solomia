@@ -8,7 +8,7 @@ const About = () => {
         <div className="text-center mb-16">
           <h2 className="text-4xl font-bold text-gray-900 mb-4">About Me</h2>
           <p className="text-xl text-gray-600 max-w-3xl mx-auto">
-            Rapid full-stack developer launching scalable, AI-powered MVPs using modern JavaScript and cutting-edge tools.
+            Fast frontend specialist delivering scalable, AI-enhanced MVPs with modern JavaScript, TypeScript, and tools like React, Next.js, Supabase, and Shopify.
           </p>
         </div>
 
@@ -40,24 +40,23 @@ const About = () => {
           <div className="order-1 lg:order-2 space-y-8">
             <div className="prose prose-lg text-gray-600 space-y-6">
               <p className="text-lg leading-relaxed">
-                I'm a versatile full-stack developer passionate about transforming ideas into fast, scalable, and AI-powered digital solutions.
-                I specialize in modern tools like
-                <span className="font-semibold text-pink-500"> Lovable.dev</span>,
-                <span className="font-semibold text-yellow-500"> Bolt.new</span>,
-                <span className="font-semibold text-indigo-500"> Cursor</span>,
-                <span className="font-semibold text-emerald-500"> Replit</span>, and
-                <span className="font-semibold text-red-500"> Make.com</span>,
-                combined with robust technologies such as the
-                <span className="font-semibold text-cyan-600"> MERN stack</span>,
-                <span className="font-semibold text-lime-600"> Supabase</span>, and
-                <span className="font-semibold text-fuchsia-600"> Next.js</span>.
+                I'm a creative frontend developer passionate about turning designs and ideas into fast, responsive, and scalable user interfaces.
+                I specialize in modern frameworks like
+                <span className="font-semibold text-pink-500"> React</span>,
+                <span className="font-semibold text-yellow-500"> Angular</span>,
+                <span className="font-semibold text-indigo-500"> Vue.js</span>,
+                <span className="font-semibold text-emerald-500"> MERN stack</span>, and
+                <span className="font-semibold text-red-500"> Shopify</span>,
+                alongside tools like
+                <span className="font-semibold text-cyan-600"> Lovable.dev</span>,
+                <span className="font-semibold text-lime-600"> Bolt.new</span>, and
+                <span className="font-semibold text-fuchsia-600"> Cursor </span>
+                to craft beautiful, production-ready frontends.
               </p>
               <p className="text-lg leading-relaxed">
-                What makes me stand out is my ability to rapidly launch MVPs—often within 24 to 72 hours—enabling you to validate your product quickly and move to market faster than traditional development cycles. I focus on writing clean, well-structured TypeScript code and building automation-powered apps designed to grow seamlessly.
-              </p>
+                What sets me apart is my ability to build clean, pixel-perfect UIs and launch MVPs quickly—often within 24 to 72 hours—allowing you to test, iterate, and go to market faster. I focus on writing modular TypeScript code, enhancing UX with thoughtful animations, and integrating with real-time APIs, Supabase, Stripe, and Firebase.              </p>
               <p className="text-lg leading-relaxed">
-                Whether you’re looking for a full-stack web app, a custom Shopify integration, AI-enhanced features, or optimized workflows with tools like Replit and Make.com, I bring the skills and tools to deliver solutions that are fast, reliable, and built for scale.
-              </p>
+                Whether you're building a SaaS dashboard, a custom e-commerce site with Shopify, or an AI-powered frontend experience, I bring the flexibility, speed, and polish needed to bring your vision to life—on time and built to scale.              </p>
             </div>
 
             {/* Values Grid */}
